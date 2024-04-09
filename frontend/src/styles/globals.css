@@ -1,0 +1,173 @@
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiDialog-paperFullWidth.css-tlc64q-MuiPaper-root-MuiDialog-paper {
+    max-width: 450px;
+    max-height: 350px;
+}
+
+.title_content {
+    font-size: 20px;
+    margin: 2px;
+}
+
+.steps_popup_button {
+    margin-right: 36%;
+}
+
+
+/* Profile page */
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #fff !important;
+    background: #6a9127 !important;
+    border-radius: 5px;
+
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    color: #646464 !important;
+    font-size: 15px !important;
+    border-radius: 5px !important;
+    font-weight: bold !important;
+    text-transform: capitalize !important;
+    background-color: #eeeeee !important;
+    margin-right: 5px !important;
+
+
+}
+
+
+.css-1aquho2-MuiTabs-indicator {
+    position: absolute;
+    height: 2px;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent !important;
+
+}
+
+#form-create-item textarea {
+    height: 45px;
+    border: solid 1px #ddd;
+}
+
+input#collections.collection_select {
+    /* color: red; */
+    border: none;
+    height: 0px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    height: auto;
+}
+
+.dropdown li {
+    color: #646464;
+    background: transparent !important;
+}
+
+
+
+.d-item {
+    display: block !important;
+}
+
+.select_network {
+    display: flex;
+    justify-content: space-between;
+}
+
+.remove-image {
+    margin: -1% 0 0 41%;
+    position: absolute;
+    z-index: 9;
+    width: 22px;
+    height: 22px;
+    font-size: 12px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.css-1cq9nzt-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+    background: #6a9127 !important;
+    color: white !important;
+    border: 1px solid rgba(46, 125, 50, 0.5);
+    background-color: rgba(46, 125, 50, 0.12);
+}
+
+.show_network {
+    border: 3px solid #ddd;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.show_network img {
+    height: 50px;
+}
+
+.connected {
+    background: #6a9127 !important;
+    color: #fff !important;
+}
+
+.create_collection_btn {
+    margin-left: 10% !important;
+    margin-top: 20px !important;
+    background: #6a9127 !important;
+    color: white !important;
+}
+
+.create_collection_btn:hover {
+    margin-left: 10% !important;
+    margin-top: 20px !important;
+    background: white !important;
+    color: #646464 !important;
+    border: 1px solid #ddd !important;
+}
+
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked,
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate .check_value {
+    color: #6a9127 !important;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.buy_btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    background: #6a9127;
+    color: white;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 6px 25px;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.buy_btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+    background: white;
+    color: #646464;
+    border: 1px solid #ddd;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.bid_btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    background: #6a9127;
+    color: white;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 6px 25px;
+    margin-left: 20px;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.bid_btn.css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+    background: white;
+    color: #646464;
+    border: 1px solid #ddd;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+.css-153eyq5-MuiModal-root-MuiDialog-root .MuiDialogContent-root {
+    padding: 10px !important;
+}
